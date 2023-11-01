@@ -17,6 +17,8 @@ The Stock Price Prediction project employs a linear regression model to predict 
 
 The project is designed as a Python script for data preprocessing, model training, and evaluation.
 
+Read the documentation file for further clarifications.
+
 ## Getting Started
 
 To start using this code, follow these steps:
